@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="match_parent"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/drawer_img"
+        android:layout_width="49dp"
+        android:layout_height="54dp"
+        android:src="@drawable/amour" />
+
+    <TextView
+        android:id="@+id/drawer_categorie"
+        android:layout_width="match_parent"
+        android:background="#FFFFFF"
+        android:textColor="#727272"
+        android:layout_height="48dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center_vertical"
+        android:textSize="25sp"
+        android:layout_weight="90"/>
+
+</LinearLayout>

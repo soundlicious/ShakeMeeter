@@ -7,20 +7,20 @@ Quel est le film qui te ressemble le plus?;Film
 Tu préfères manger du chocolat ou écouter de la musique?;Fou
 Quelle serait ta plus grande aventure?;Reve
 Tu préfères les hippopotames ou les personnes âgées?;Fou
-Tu préfèrerais habiter au Louvre ou au Ch�teau de Versailles?;Reve
+Tu préfèrerais habiter au Louvre ou au Château de Versailles?;Reve
 Quelle est ta plus grande qualité?;Technique
 Quel est le dernier livre que tu as lu?;Livres
 Quel est ton film en noir et blanc préfèré?;Film
-Quelle est la célébrit�é avec qui tu aimerais être ami(e)?;Reve
+Quelle est la célébrité avec qui tu aimerais être ami(e)?;Reve
 Quel est ton cocktail/boisson préfèrée?;Loisir
 Tu préfèrerais avoir trois yeux ou deux nez?;Fou
 Quel est le défaut qui te rebute le plus?;Technique
 Si tu pouvais faire une chose pour changer le monde, ce serait quoi?;Reve
 Quelle est ton activité sportive préfèrée?;Sport
-Quel est le meilleur endroit pour faire la f�te?;Fou
+Quel est le meilleur endroit pour faire la fête?;Fou
 Quel est ton instrument de musique préfèré?;Musique
 Quel est le plus beau compliment qu'on t'ait fait? Celui que tu aimerais qu'on te fasse?;Amour
-Quelle est ta capitale Europ�enne préfèrée?;Voyage
+Quelle est ta capitale Européenne préfèrée?;Voyage
 Tu préfères chanter seul(e) dans la rue ou arriver au boulot déguisé(e) en canard?;Fou
 Quel est ton plat préfèré? Celui que tu cuisines le mieux?;Loisir
 Quel est le plus beau cadeau quéon t'ait offert?;Technique
