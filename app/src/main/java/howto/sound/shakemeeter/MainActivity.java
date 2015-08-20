@@ -49,8 +49,7 @@ public class MainActivity extends ActionBarActivity {
     private Spinner spinner;
     private EditText edit;
     private ArrayAdapter<CharSequence> adapter;
-
-
+    
     private DrawerLayout drawerLayout;
     private ListView drawerList;
     private DrawerAdapter drawerAdapter;
