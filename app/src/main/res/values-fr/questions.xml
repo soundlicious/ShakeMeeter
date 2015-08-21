@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <item type="string">
+        <Question>Tu préférerais voyager dans le temps ou être quelqu’un d’autre pendant 24h?</Question>
+        <Categorie>Voyage</Categorie>
+    </item>
+     <item type="string">
+        <Question>Raconte-moi ta journée idéale.</Question>
+        <Categorie>Reve</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quel est le métier de tes Reves?</Question>
+        <Categorie>Reve</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quelles sont selon toi les trois différences principales entre hommes et femmes?</Question>
+        <Categorie>Technique</Categorie>
+    </item>
+     <item type="string">
+        <Question>Rock, Jazz, Pop, Rap, musique classique ou electro?</Question>
+        <Categorie>Musique</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quel est le film qui te ressemble le plus?</Question>
+        <Categorie>Film</Categorie>
+    </item>
+     <item type="string">
+        <Question>Tu préfères manger du chocolat ou écouter de la musique?</Question>
+        <Categorie>Fou</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quelle serait ta plus grande aventure?</Question>
+        <Categorie>Reve</Categorie>
+    </item>
+     <item type="string">
+        <Question>Tu préfères les hippopotames ou les personnes âgées?</Question>
+        <Categorie>Fou</Categorie>
+    </item>
+     <item type="string">
+        <Question>Tu préfèrerais habiter au Louvre ou au Château de Versailles?</Question>
+        <Categorie>Reve</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quelle est ta plus grande qualité?</Question>
+        <Categorie>Technique</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quel est le dernier livre que tu as lu?</Question>
+        <Categorie>Livres</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quel est ton film en noir et blanc préféré?</Question>
+        <Categorie>Film</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quelle est la célébrité avec qui tu aimerais être ami(e)?</Question>
+        <Categorie>Reve</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quel est ton cocktail/boisson préférée?</Question>
+        <Categorie>Loisir</Categorie>
+    </item>
+     <item type="string">
+        <Question>Tu préfèrerais avoir trois yeux ou deux nez?</Question>
+        <Categorie>Fou</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quel est le défaut qui te rebute le plus?</Question>
+        <Categorie>Technique</Categorie>
+    </item>
+     <item type="string">
+        <Question>Si tu pouvais faire une chose pour changer le monde, ce serait quoi?</Question>
+        <Categorie>Reve</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quelle est ton activité sportive préférée?</Question>
+        <Categorie>Sport</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quel est le meilleur endroit pour faire la fête?</Question>
+        <Categorie>Fou</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quel est ton instrument de musique préféré?</Question>
+        <Categorie>Musique</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quel est le plus beau compliment qu’on t’ait fait? Celui que tu aimerais qu’on te fasse?</Question>
+        <Categorie>Amour</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quelle est ta capitale Européenne préférée?</Question>
+        <Categorie>Voyage</Categorie>
+    </item>
+     <item type="string">
+        <Question>Tu préféres chanter seul(e) dans la rue ou arriver au boulot déguisé(e) en canard?</Question>
+        <Categorie>Fou</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quel est ton plat préféré? Celui que tu cuisines le mieux?</Question>
+        <Categorie>Loisir</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quel est le plus beau cadeau qu’on t’ait offert?</Question>
+        <Categorie>Technique</Categorie>
+    </item>
+     <item type="string">
+        <Question>Si une star de cinéma jouait ton rôle dans un film, ce serait qui?</Question>
+        <Categorie>Reve</Categorie>
+    </item>
+     <item type="string">
+        <Question>Qui est le plus sexy: le surfeur, l’artiste ou le businessman?</Question>
+        <Categorie>Hot</Categorie>
+    </item>
+     <item type="string">
+        <Question>Est-ce que tu ferais du saut à l’élastique?</Question>
+        <Categorie>Fou</Categorie>
+    </item>
+     <item type="string">
+        <Question>Si ta vie était une chanson, ce serait laquelle?</Question>
+        <Categorie>Musique</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quelle est ta devise/citation préférée?</Question>
+        <Categorie>Technique</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quel est ton animal imaginaire préféré?</Question>
+        <Categorie>Reve</Categorie>
+    </item>
+     <item type="string">
+        <Question>Qui est ton fantasme sur pattes?</Question>
+        <Categorie>Hot</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quelle est la qualité que tu apprécies le plus chez les gens?</Question>
+        <Categorie>Technique</Categorie>
+    </item>
+     <item type="string">
+        <Question>Tu préférerais gravir un sommet ou traverser un océan?</Question>
+        <Categorie>Voyage</Categorie>
+    </item>
+     <item type="string">
+        <Question>Plutôt Twitter ou Instagram?</Question>
+        <Categorie>Reseau</Categorie>
+    </item>
+     <item type="string">
+        <Question>Si tu étais un animal, ce serait lequel?</Question>
+        <Categorie>Fou</Categorie>
+    </item>
+     <item type="string">
+        <Question>Si tu pouvais choisir un super pouvoir, ce serait lequel?</Question>
+        <Categorie>Fou</Categorie>
+    </item>
+     <item type="string">
+        <Question>Tu préférerais être blonde ou avoir de plus gros seins?</Question>
+        <Categorie>Fou</Categorie>
+    </item>
+     <item type="string">
+        <Question>Quel serait le titre de ton biopic?</Question>
+        <Categorie>Film</Categorie>
+    </item>
+     <item type="string">
+        <Question>Raconte-moi ta plus belle rencontre.</Question>
+        <Categorie>Amour</Categorie>
+    </item>
+     <item type="string">
+        <Question>Qui est ton/ta meilleur(e) ami(e)?</Question>
+        <Categorie>Amour</Categorie>
+    </item>
+     <item type="string">
+        <Question>Cette année, tu préférerais trouver l’amour ou gagner au loto?</Question>
+        <Categorie>Fou</Categorie>
+    </item>
+     <item type="string">
+        <Question>Qui est ton créateur de mode préféré?</Question>
+        <Categorie>Technique</Categorie>
+    </item>
+     <item type="string">
+        <Question>La matière où tu as le plus cartonné au bac?</Question>
+        <Categorie>Technique</Categorie>
+    </item>
+     <item type="string">
+        <Question>Tu préférerais écrire un roman ou composer une symphonie?</Question>
+        <Categorie>Fou</Categorie>
+    </item>
+     <item type="string">
+        <Question>Le plus mignon, c’est le chaton ou le poney?</Question>
+        <Categorie>Fou</Categorie>
+    </item>
+     <item type="string">
+        <Question>Qui admires-tu?</Question>
+        <Categorie>Amour</Categorie>
+    </item>
+     <item type="string">
+        <Question>Qui est ton peintre préféré?</Question>
+        <Categorie>Loisir</Categorie>
+    </item>
+     <item type="string">
+        <Question>Où pourrais-tu passer le reste de tes jours?</Question>
+        <Categorie>Voyage</Categorie>
+    </item>
+     <item type="string">
+        <Question>Tu préfères manger des huîtres ou faire de l’escalade?</Question>
+        <Categorie>Fou</Categorie>
+    </item>
+     <item type="string">
+        <Question>En plus de celles que tu maîtrises déjà, quelle langue aimerait tu parler couramment?</Question>
+        <Categorie>Voyage</Categorie>
+    </item>
+</resources>

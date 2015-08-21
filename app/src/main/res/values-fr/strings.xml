@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShakeMeeter</string>
+    <string name="question">Bienvenue! Secoue ton téléphone pour commencer une nouvelle conversation</string>
+    <string name="open">Catégories</string>
+    <string name="action_settings">Propriétés</string>
+    <string name="edit">Editer</string>
+    <string name="delete">Supprimer</string>
+    <string name="add">Ajouter</string>
+    <string name="save">Exporter conversations</string>
+    <string name="import_data">Importer Conversation</string>
+    <string name="delete_conv_base">Impossible de supprimer conversation de base!</string>
+    <string name="alerte_delete">Voulez-vous vraiment supprimer cette conversation</string>
+    <string name="amour">Amour</string>
+    <string name="film">Film</string>
+    <string name="fou">Fou</string>
+    <string name="livres">Livres</string>
+    <string name="loisir">Loisir</string>
+    <string name="musique">Musique</string>
+    <string name="reseau">Reseau</string>
+    <string name="reve">Reve</string>
+    <string name="sport">Sport</string>
+    <string name="technique">Technique</string>
+    <string name="voyage">Voyage</string>
+    <string name="edit_conv_base">Impossible d\'éditer une conversation de base!</string>
+</resources>
