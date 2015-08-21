@@ -49,7 +49,7 @@ public class MainActivity extends ActionBarActivity {
     private Spinner spinner;
     private EditText edit;
     private ArrayAdapter<CharSequence> adapter;
-    
+
     private DrawerLayout drawerLayout;
     private ListView drawerList;
     private DrawerAdapter drawerAdapter;
@@ -132,7 +132,7 @@ public class MainActivity extends ActionBarActivity {
                 convDB.openForWrite();
                 String oldConv = edit.getText().toString();
                 String oldCat = spinner.getSelectedItem().toString();
-                if (conv == new_conv && (oldConv != conv.getConv() || oldCat != conv.getCategorieString())) {
+                if (conv != null && conv == new_conv && (oldConv != conv.getConv() || oldCat != conv.getCategorieString())) {
                     convDB.updateConv(conv.getId(), new Conv(new Categorie(oldCat, myImageList.get(oldCat)), oldConv));
                     question.setText(conv.getConv());
                     image.setImageResource(conv.getImg());
@@ -152,6 +152,7 @@ public class MainActivity extends ActionBarActivity {
             }
         });
     }
+
     private void initHashTable() {
         myImageList.put(getResources().getString(R.string.amour), R.drawable.amour);
         myImageList.put(getResources().getString(R.string.film), R.drawable.film);
@@ -288,8 +289,10 @@ public class MainActivity extends ActionBarActivity {
         convDB.openForRead();
         conv = convDB.randomConv(selection);
         convDB.close();
-        question.setText(conv.getConv());
-        image.setImageResource(conv.getImg());
+        if (conv != null) {
+            question.setText(conv.getConv());
+            image.setImageResource(conv.getImg());
+        }
     }
 
     private DrawerAdapter getAdapter(){
